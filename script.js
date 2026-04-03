@@ -1,4 +1,4 @@
-function () {
+(function () {
   'use strict';
 
   /* ═══════════════════════════════════════════════════════════════════
@@ -4208,5 +4208,4 @@ function () {
         updateProfitInput(0);
 
         isFirstClick = true;
-    });
 })();
